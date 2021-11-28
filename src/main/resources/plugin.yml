@@ -1,0 +1,10 @@
+name: Manhunt
+version: '1.0'
+main: me.simondmc.manhunt.Manhunt
+api-version: 1.13
+authors: ["SimonDMC"]
+description: A simple light-weight Manhunt plugin.
+
+commands:
+  runner:
+  hunter:
